@@ -39,6 +39,6 @@ Here are a few rendered images of the designed M1 MacBook Pro 2020:
 
 ## Assembly Video
 
-Check out the assembly process of the M1 MacBook Pro 2020 in [Renders](Video Render/)
+Check out the assembly process of the M1 MacBook Pro 2020 in ![Renders](/Video Render/)
 
 
