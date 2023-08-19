@@ -1,4 +1,4 @@
-# Apple MacBook Pro M1 (2020)
+# Solid MB: MacBook Pro modeling
 ---
 
 ### Description:
