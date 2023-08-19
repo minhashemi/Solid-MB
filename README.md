@@ -32,13 +32,16 @@ The design itself is included as a parasolid file called `MacBook Pro M1.x_t`
 Here are a few rendered images of the designed M1 MacBook Pro 2020:
 
 ![closed view](Image Render/closed view.JPG)
+
 ![turned off open](Image Render/turned off open.jpg)
+
 ![turned on open](Image Render/turned on open.jpg)
+
 ![usb-c port view](Image Render/usb-c port view.jpg)
 
 
 ## Assembly Video
 
-Check out the assembly process of the M1 MacBook Pro 2020 in ![Renders](/Video Render/)
+Check out the assembly process of the M1 MacBook Pro 2020 in `Video Render` directory.
 
 
