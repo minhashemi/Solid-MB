@@ -12,8 +12,7 @@ Welcome to the repository showcasing my design of the M1 MacBook Pro 2020 create
 - [Features](#features)
 - [Images](#images)
 - [Assembly Video](#assembly-video)
-- [File Structure](#file-structure)
-- [License](#license)
+- [Design](#Design)
 
 ## Overview
 
